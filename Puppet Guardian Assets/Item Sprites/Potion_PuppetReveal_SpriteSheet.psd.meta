@@ -1,0 +1,1370 @@
+fileFormatVersion: 2
+guid: b0f61bb89150266478449c1ad1103211
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Potion_PuppetReveal_SpriteSheet_0
+    21300002: Potion_PuppetReveal_SpriteSheet_1
+    21300004: Potion_PuppetReveal_SpriteSheet_2
+    21300006: Potion_PuppetReveal_SpriteSheet_3
+    21300008: Potion_PuppetReveal_SpriteSheet_4
+    21300010: Potion_PuppetReveal_SpriteSheet_5
+    21300012: Potion_PuppetReveal_SpriteSheet_6
+    21300014: Potion_PuppetReveal_SpriteSheet_7
+    21300016: Potion_PuppetReveal_SpriteSheet_8
+    21300018: Potion_PuppetReveal_SpriteSheet_9
+    21300020: Potion_PuppetReveal_SpriteSheet_10
+    21300022: Potion_PuppetReveal_SpriteSheet_11
+    21300024: Potion_PuppetReveal_SpriteSheet_12
+    21300026: Potion_PuppetReveal_SpriteSheet_13
+    21300028: Potion_PuppetReveal_SpriteSheet_14
+    21300030: Potion_PuppetReveal_SpriteSheet_15
+    21300032: Potion_PuppetReveal_SpriteSheet_16
+    21300034: Potion_PuppetReveal_SpriteSheet_17
+    21300036: Potion_PuppetReveal_SpriteSheet_18
+    21300038: Potion_PuppetReveal_SpriteSheet_19
+    21300040: Potion_PuppetReveal_SpriteSheet_20
+    21300042: Potion_PuppetReveal_SpriteSheet_21
+    21300044: Potion_PuppetReveal_SpriteSheet_22
+    21300046: Potion_PuppetReveal_SpriteSheet_23
+    21300048: Potion_PuppetReveal_SpriteSheet_24
+    21300050: Potion_PuppetReveal_SpriteSheet_25
+    21300052: Potion_PuppetReveal_SpriteSheet_26
+    21300054: Potion_PuppetReveal_SpriteSheet_27
+    21300056: Potion_PuppetReveal_SpriteSheet_28
+    21300058: Potion_PuppetReveal_SpriteSheet_29
+    21300060: Potion_PuppetReveal_SpriteSheet_30
+    21300062: Potion_PuppetReveal_SpriteSheet_31
+    21300064: Potion_PuppetReveal_SpriteSheet_32
+    21300066: Potion_PuppetReveal_SpriteSheet_33
+    21300068: Potion_PuppetReveal_SpriteSheet_34
+    21300070: Potion_PuppetReveal_SpriteSheet_35
+    21300072: Potion_PuppetReveal_SpriteSheet_36
+    21300074: Potion_PuppetReveal_SpriteSheet_37
+    21300076: Potion_PuppetReveal_SpriteSheet_38
+    21300078: Potion_PuppetReveal_SpriteSheet_39
+    21300080: Potion_PuppetReveal_SpriteSheet_40
+    21300082: Potion_PuppetReveal_SpriteSheet_41
+    21300084: Potion_PuppetReveal_SpriteSheet_42
+    21300086: Potion_PuppetReveal_SpriteSheet_43
+    21300088: Potion_PuppetReveal_SpriteSheet_44
+    21300090: Potion_PuppetReveal_SpriteSheet_45
+    21300092: Potion_PuppetReveal_SpriteSheet_46
+    21300094: Potion_PuppetReveal_SpriteSheet_47
+    21300096: Potion_PuppetReveal_SpriteSheet_48
+    21300098: Potion_PuppetReveal_SpriteSheet_49
+    21300100: Potion_PuppetReveal_SpriteSheet_50
+    21300102: Potion_PuppetReveal_SpriteSheet_51
+    21300104: Potion_PuppetReveal_SpriteSheet_52
+    21300106: Potion_PuppetReveal_SpriteSheet_53
+    21300108: Potion_PuppetReveal_SpriteSheet_54
+    21300110: Potion_PuppetReveal_SpriteSheet_55
+    21300112: Potion_PuppetReveal_SpriteSheet_56
+    21300114: Potion_PuppetReveal_SpriteSheet_57
+    21300116: Potion_PuppetReveal_SpriteSheet_58
+    21300118: Potion_PuppetReveal_SpriteSheet_59
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 985
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29620336079a4724f8a1801968e21130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 985
+        width: 16
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d91d6fedc1567648bc033b4dcba616a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 985
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c3e5f0db278a24cadca869e434b7dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1006
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7f79841658acd4c8508882090276ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 985
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e83eae916a5de4dbd921591a4b51f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 985
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54fe755b7c69b04b84ad3dfedfb62a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 985
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b195346a395fdc4f81bd348335e4edb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 834
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1df3ee31fdc0314db4a6fd90bfaa763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 842
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76590e902f7f51e4b8a9312d34fbc53b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 844
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2859b9b84e1f841a594e86028a540c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 840
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8dca4803a7b6114fa42b6fe3409ed19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 840
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc85b88ada30b1f42a30d000a798b44e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 841
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e463e249ff25298419bd2c6fc3c08293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 848
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229ca56abf01d244ca3a6663e8b1cc3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 805
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef10d8eece4f484eaee1a67c225bf84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 805
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30560f07e52a84542a17d7cef6d7356a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 805
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6343e2146fddfb04c91a25d7661db5ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 805
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce92aa5e07e3d924e9940d3203382969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 805
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266d0bbdc5dcab14dbd6b5f3062b1945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 805
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148cd2f854c6cff4ab02b2d7595e4fff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 664
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e36395b492dd654d84ea7431090eb74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 664
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539581fd3ccc1e74fb401595024ad6bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 657
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3fadff5bcf7944fa2c7b8850da9eb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 657
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101a90d0948751741b3a5eeb58cf5b86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 652
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6166e3cb0ca0e42b1d237e99502036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 654
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc345bafbb6a5b4299170e0e61196fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 625
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f58011c91e8af44ab33728c67f7d877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 625
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f31a14015ed0c34f94a3e7ab3c65347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 625
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c310c15a1b58648ada5c9d083b6478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 625
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bb369663fa43b408a28d64fb322805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 625
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76ea8b8eec09cb4092a21aa756341c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 625
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2737a74a30d938c4aacfaf5a8534d8c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 475
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1cf51b9a8915b43bc6e855f395595d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 475
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da8b0d09f41f3b478a19507bd915175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 472
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81c3c68394509d4c8be80a427fce4d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 467
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1777865222756468ef04f1a09c74e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 465
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8b1d29ef61ba24db7fff3879f72f23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 474
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7749ab94a18ca474fb600bff39f11ee7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 445
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54c55c50882fb546a110de12dc308d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 445
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a07e19cfa54f1d46869b730d4ef38b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 445
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74231748374216848a5d6da4283d4374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 445
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19096b604350fd147b9d2de219e7f3ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 445
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8971926b57f2a234c923dab35c227668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 445
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01578e89f3133e54abf21539aa9ddcc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 293
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd030922ed2a32640924a1b8e906dadf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 292
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ca34e155cad3d4ba681bef95cb57c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 293
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983f6c5c2229643438d0e9cf5eab93dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 294
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47042043bd4ad954eb91e65c14cbde4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 293
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19dc4b3ec511ebd459a61c21daf364e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 292
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87185d40737b52c45829f94cbd398f3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 265
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfad76464642ea43a34c29569b1e597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 265
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c182bf96a7eda47ace52d34809533b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 265
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d2bdb94f8384f44871f2d75454673b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 265
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee838ef2b515be94aaf1ee58cafff300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 265
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02b90a59ea77024f98a2092a0af8678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 265
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc416548642ce1543b63355ba0963777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 113
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179d5c6cfcd7c4a4dbd53fde20ad8641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 114
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2002439abcba8ed459e59b5291c0fe77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 85
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa838ccd01012647abfb782740a0160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Potion_PuppetReveal_SpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 85
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065e6e7af4397004abe058779dbb6603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cc6f084f81f41d342bd26df0c8f9fdfa
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: a3f8f5c2334fa6b4aa15357b34cb9e33
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7231630315859942367
+    second: Mager_Hero_Puppet_GhostTeleportPoint_0
+  - first:
+      213: -3703927352929911962
+    second: Mager_Hero_Puppet_GhostTeleportPoint_1
+  - first:
+      213: -6005604890222981598
+    second: Mager_Hero_Puppet_GhostTeleportPoint_2
+  - first:
+      213: 5015018068693854992
+    second: Mager_Hero_Puppet_GhostTeleportPoint_3
+  - first:
+      213: -5939621774850113289
+    second: Mager_Hero_Puppet_GhostTeleportPoint_4
+  - first:
+      213: -5829513159858016628
+    second: Mager_Hero_Puppet_GhostTeleportPoint_5
+  - first:
+      213: -6969479949693428554
+    second: Mager_Hero_Puppet_GhostTeleportPoint_6
+  - first:
+      213: -1402984808167079504
+    second: Mager_Hero_Puppet_GhostTeleportPoint_7
+  - first:
+      213: 540479903974847814
+    second: Mager_Hero_Puppet_GhostTeleportPoint_8
+  - first:
+      213: 6229038958664802989
+    second: Mager_Hero_Puppet_GhostTeleportPoint_9
+  - first:
+      213: 3857892523139034165
+    second: Mager_Hero_Puppet_GhostTeleportPoint_10
+  - first:
+      213: 9160510778501119643
+    second: Mager_Hero_Puppet_GhostTeleportPoint_11
+  - first:
+      213: 6239538758483770038
+    second: Mager_Hero_Puppet_GhostTeleportPoint_12
+  - first:
+      213: 1452490766120432783
+    second: Mager_Hero_Puppet_GhostTeleportPoint_13
+  - first:
+      213: -4261121404179207240
+    second: Mager_Hero_Puppet_GhostTeleportPoint_14
+  - first:
+      213: -4541084962210507914
+    second: Mager_Hero_Puppet_GhostTeleportPoint_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mager_Hero_Puppet_GhostTeleportPoint_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 571
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c74c7161ac85a46994b66dd8dbcdee
+      internalID: -7231630315859942367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mager_Hero_Puppet_GhostTeleportPoint_1
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 619
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4302a14402a87f84c85107880e3b8a65
+      internalID: -3703927352929911962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mager_Hero_Puppet_GhostTeleportPoint_2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 619
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a503324c94ecdf74bb7dcaf6f57fd435
+      internalID: -6005604890222981598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mager_Hero_Puppet_GhostTeleportPoint_3
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 620
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e7c9e42b5acea409e311f0203da2f5
+      internalID: 5015018068693854992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mager_Hero_Puppet_GhostTeleportPoint_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 433
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db31ce628704678489a3103175372781
+      internalID: -5939621774850113289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mager_Hero_Puppet_GhostTeleportPoint_5
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 426
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351f103e784004242b94cfeca53fcf69
+      internalID: -5829513159858016628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mager_Hero_Puppet_GhostTeleportPoint_6
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 434
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02fa548ad8834e49ba7ba316646b2d3
+      internalID: -6969479949693428554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mager_Hero_Puppet_GhostTeleportPoint_7
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 427
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8722323f43b38804793cae931338e8b4
+      internalID: -1402984808167079504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mager_Hero_Puppet_GhostTeleportPoint_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 244
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12df73770a863ad4981bf2e60fde0aea
+      internalID: 540479903974847814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mager_Hero_Puppet_GhostTeleportPoint_9
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 247
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de589bdf5b3661b4484e50c48ace0d75
+      internalID: 6229038958664802989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mager_Hero_Puppet_GhostTeleportPoint_10
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 248
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e8b3abc14dde44bbbedf9bb7a2ef58
+      internalID: 3857892523139034165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mager_Hero_Puppet_GhostTeleportPoint_11
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 249
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c5c03194d950e4fb856c3e692b974a
+      internalID: 9160510778501119643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mager_Hero_Puppet_GhostTeleportPoint_12
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 64
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e2955f65d3c724090c45756c1c589a
+      internalID: 6239538758483770038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mager_Hero_Puppet_GhostTeleportPoint_13
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 67
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3026e82a560fa24c9d1d3d5a7b592fb
+      internalID: 1452490766120432783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mager_Hero_Puppet_GhostTeleportPoint_14
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 68
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06f41a05f381744da358646ec2f366a
+      internalID: -4261121404179207240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mager_Hero_Puppet_GhostTeleportPoint_15
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 69
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeca10effc1d4cd4db9a7404a32e0559
+      internalID: -4541084962210507914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7393f5a518c95e0468d5b2f7beafff29
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
